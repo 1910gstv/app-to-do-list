@@ -5,7 +5,7 @@
 
 Esse é um projeto que visa simular uma lista de Tarefas. Nela podemos inserir novas tarefas, editar e excluir tarefas. Também podemos filtrar por tarefas pendentes e concluídas. <br>
 
-Este projeto foi feito para desenvolver técnicas em Javascript como DOM e Funções. Para criar esse aplicativo usamos:<br>
+Este projeto foi feito para desenvolver técnicas em Javascript como DOM, Funções e Local Storage . Para criar esse aplicativo usamos:<br>
 
 * HTML
 * CSS
