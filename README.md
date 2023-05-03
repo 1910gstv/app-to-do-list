@@ -30,5 +30,5 @@ O app foi inspirado no projeto do vídeo 'Create A Todo List App in HTML CSS & J
 
 ##
 
-⌨ com ❤ por [@1910gstv](github.com/1910gstv)
+⌨ com 🤍 por [@1910gstv](github.com/1910gstv)
 
